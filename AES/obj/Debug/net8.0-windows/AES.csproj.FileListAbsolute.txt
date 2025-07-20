@@ -1,0 +1,32 @@
+D:\BSTU\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.exe
+D:\BSTU\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.deps.json
+D:\BSTU\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.runtimeconfig.json
+D:\BSTU\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.dll
+D:\BSTU\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.pdb
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.Form1.resources
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.csproj.GenerateResource.cache
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.AssemblyInfoInputs.cache
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.AssemblyInfo.cs
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.csproj.CoreCompileInputs.cache
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.dll
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\refint\AES.dll
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.pdb
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.genruntimeconfig.cache
+D:\BSTU\ИБ\3\AES\AES\obj\Debug\net8.0-windows\ref\AES.dll
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.exe
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.deps.json
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.runtimeconfig.json
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.dll
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\bin\Debug\net8.0-windows\AES.pdb
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.Form1.resources
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.csproj.GenerateResource.cache
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.AssemblyInfoInputs.cache
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.AssemblyInfo.cs
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.csproj.CoreCompileInputs.cache
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.dll
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\refint\AES.dll
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.pdb
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\AES.genruntimeconfig.cache
+C:\Users\Ancelad\Desktop\ИБ (2)\ИБ\3\AES\AES\obj\Debug\net8.0-windows\ref\AES.dll
